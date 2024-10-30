@@ -1,0 +1,17 @@
+.cafe-icon {
+    color: #8e2de2;
+}
+.elementor-element-wrapper.elementor-element--promotion .cafe-icon {
+	color: #a4afb7;
+}
+.cafe-dialog-buttons-action {
+	display: block;
+    text-align: center;
+}
+.cafe-dialog-buttons-action.elementor-button.elementor-button-success:not([disabled]) {
+    background-color: #8e2de2;
+}
+.dialog-widget.is-cafe-box button.dialog-buttons-action,
+.dialog-widget:not(.is-cafe-box) .cafe-dialog-buttons-action {
+	display: none;
+}

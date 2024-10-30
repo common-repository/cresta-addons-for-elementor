@@ -1,0 +1,1509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cresta Addons for Elementor\n"
+"POT-Creation-Date: 2022-12-29 14:45+0100\n"
+"PO-Revision-Date: 2022-12-29 14:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: cresta-addons-for-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: cresta-addons-for-elementor.php:107
+msgid ""
+"Cresta Addons for Elementor plugin is not working because you need to "
+"activate Elementor plugin."
+msgstr ""
+
+#: cresta-addons-for-elementor.php:108
+msgid "Activate Elementor Page Builder"
+msgstr ""
+
+#: cresta-addons-for-elementor.php:115
+msgid ""
+"Cresta Addons for Elementor plugin is not working because you need to "
+"install the Elementor plugin."
+msgstr ""
+
+#: cresta-addons-for-elementor.php:116
+msgid "Install Elementor Now"
+msgstr ""
+
+#: cresta-addons-for-elementor.php:152 cresta-addons-for-elementor.php:161
+#: inc/widgets.php:26 inc/widgets.php:31
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/compatibility/widgets/cafe-business-hours.php:41
+msgid "Business hours day"
+msgstr ""
+
+#: inc/compatibility/widgets/cafe-business-hours.php:43
+msgid "Business hours hours"
+msgstr ""
+
+#: inc/compatibility/widgets/cafe-heading-typewriter.php:38
+msgid "Heading typewriter text"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:75
+msgid "Alert Title"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:80
+msgid "Alert Content"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:91
+msgid "Heading typewriter before text"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:96
+msgid "Heading typewriter after text"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:108
+msgid "Double button first text"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:113
+msgid "Double button first link"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:118
+msgid "Double button second text"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:123
+msgid "Double button second link"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:134
+msgid "Advanced heading first title"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:139
+msgid "Advanced heading second title"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:144
+msgid "Advanced heading subtitle"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:155
+msgid "Quote message"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:160
+msgid "Quote author"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:165
+msgid "Quote share text"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:170
+msgid "Quote Twitter username"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:181
+msgid "News ticker custom text"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:192
+msgid "Flip box front side title"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:197
+msgid "Flip box front side content"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:202
+msgid "Flip box back side title"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:207
+msgid "Flip box back side content"
+msgstr ""
+
+#: inc/compatibility/wpml_compatibility.php:218
+msgid "Business hours title"
+msgstr ""
+
+#: inc/config.php:6 inc/widgets/cafe-alert-message.php:19
+#: inc/widgets/cafe-alert-message.php:40
+msgid "Alert Message"
+msgstr ""
+
+#: inc/config.php:7 inc/config.php:34 inc/config.php:54 inc/config.php:86
+#: inc/config.php:106 inc/config.php:126 inc/config.php:153 inc/config.php:190
+#: inc/config.php:210 inc/config.php:230 inc/config.php:258 inc/config.php:268
+#: inc/config.php:278 inc/config.php:288 inc/config.php:298 inc/config.php:308
+#: inc/config.php:318 inc/config.php:328 inc/config.php:338 inc/config.php:348
+#: inc/config.php:358 inc/config.php:368 inc/config.php:378 inc/config.php:388
+#: inc/config.php:398 inc/config.php:408 inc/config.php:418 inc/config.php:428
+msgid "Watch the demo"
+msgstr ""
+
+#: inc/config.php:33 inc/widgets/cafe-double-button.php:21
+msgid "Double Button"
+msgstr ""
+
+#: inc/config.php:53 inc/widgets/cafe-heading-typewriter.php:20
+msgid "Heading Typewriter"
+msgstr ""
+
+#: inc/config.php:85 inc/widgets/cafe-posts-box.php:20
+msgid "Posts Box"
+msgstr ""
+
+#: inc/config.php:105 inc/widgets/cafe-advanced-heading.php:20
+#: inc/widgets/cafe-advanced-heading.php:36
+msgid "Advanced Heading"
+msgstr ""
+
+#: inc/config.php:125 inc/widgets/cafe-image-scroll.php:21
+msgid "Image Scroll"
+msgstr ""
+
+#: inc/config.php:152 inc/widgets/cafe-news-ticker.php:20
+#: inc/widgets/cafe-news-ticker.php:40
+msgid "News Ticker"
+msgstr ""
+
+#: inc/config.php:189 inc/widgets/cafe-quote.php:21
+#: inc/widgets/cafe-quote.php:40
+msgid "Quote"
+msgstr ""
+
+#: inc/config.php:209 inc/widgets/cafe-business-hours.php:21
+#: inc/widgets/cafe-business-hours.php:40
+#: inc/widgets/cafe-business-hours.php:49
+#: inc/widgets/cafe-business-hours.php:289
+msgid "Business Hours"
+msgstr ""
+
+#: inc/config.php:229 inc/widgets/cafe-flip-box.php:22
+#: inc/widgets/cafe-flip-box.php:42 inc/widgets/cafe-flip-box.php:242
+msgid "Flip Box"
+msgstr ""
+
+#: inc/config.php:257 inc/widgets.php:208
+msgid "Scroll to next section"
+msgstr ""
+
+#: inc/config.php:267 inc/widgets.php:214
+msgid "Tilt Effect"
+msgstr ""
+
+#: inc/config.php:277 inc/widgets.php:226
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/config.php:287 inc/widgets.php:238
+msgid "Onepage Navigation"
+msgstr ""
+
+#: inc/config.php:297 inc/widgets.php:256
+msgid "Filterable Gallery"
+msgstr ""
+
+#: inc/config.php:307 inc/widgets.php:286
+msgid "Ajax Search"
+msgstr ""
+
+#: inc/config.php:317 inc/config.php:397 inc/widgets.php:304
+msgid "Switch"
+msgstr ""
+
+#: inc/config.php:327 inc/widgets.php:298
+msgid "Content behind background"
+msgstr ""
+
+#: inc/config.php:337 inc/widgets.php:292
+msgid "Content Timeline"
+msgstr ""
+
+#: inc/config.php:347 inc/widgets.php:280
+msgid "Step by step"
+msgstr ""
+
+#: inc/config.php:357 inc/widgets.php:268
+msgid "Image Compare"
+msgstr ""
+
+#: inc/config.php:367 inc/widgets.php:250
+msgid "Price List"
+msgstr ""
+
+#: inc/config.php:377 inc/widgets.php:244
+msgid "Stylize every word"
+msgstr ""
+
+#: inc/config.php:387
+msgid "Page scroll Progress"
+msgstr ""
+
+#: inc/config.php:407 inc/widgets.php:220
+msgid "Posts Carousel"
+msgstr ""
+
+#: inc/config.php:417 inc/widgets.php:274
+msgid "Offcanvas"
+msgstr ""
+
+#: inc/config.php:427 inc/widgets.php:232
+msgid "Image Hotspots"
+msgstr ""
+
+#: inc/widgets.php:151 panel/plugin-options-page.php:59
+msgid "Cresta Addons"
+msgstr ""
+
+#: inc/widgets.php:191
+msgid "Upgrade to Cresta Addons PRO"
+msgstr ""
+
+#: inc/widgets.php:262
+msgid "Page Scroll Progress"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:43
+msgid "First part title"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:45
+msgid "Lorem"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:53
+msgid "Second part title"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:55
+msgid "Ipsum"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:63
+#: inc/widgets/cafe-heading-typewriter.php:172
+#: inc/widgets/cafe-posts-box.php:282
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:67
+#: inc/widgets/cafe-business-hours.php:60 inc/widgets/cafe-flip-box.php:416
+#: inc/widgets/cafe-flip-box.php:663
+#: inc/widgets/cafe-heading-typewriter.php:176
+#: inc/widgets/cafe-posts-box.php:286
+msgid "H1"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:68
+#: inc/widgets/cafe-business-hours.php:61 inc/widgets/cafe-flip-box.php:417
+#: inc/widgets/cafe-flip-box.php:664
+#: inc/widgets/cafe-heading-typewriter.php:177
+#: inc/widgets/cafe-posts-box.php:287
+msgid "H2"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:69
+#: inc/widgets/cafe-business-hours.php:62 inc/widgets/cafe-flip-box.php:418
+#: inc/widgets/cafe-flip-box.php:665
+#: inc/widgets/cafe-heading-typewriter.php:178
+#: inc/widgets/cafe-posts-box.php:288
+msgid "H3"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:70
+#: inc/widgets/cafe-business-hours.php:63 inc/widgets/cafe-flip-box.php:419
+#: inc/widgets/cafe-flip-box.php:666
+#: inc/widgets/cafe-heading-typewriter.php:179
+#: inc/widgets/cafe-posts-box.php:289
+msgid "H4"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:71
+#: inc/widgets/cafe-business-hours.php:64 inc/widgets/cafe-flip-box.php:420
+#: inc/widgets/cafe-flip-box.php:667
+#: inc/widgets/cafe-heading-typewriter.php:180
+#: inc/widgets/cafe-posts-box.php:290
+msgid "H5"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:72
+#: inc/widgets/cafe-business-hours.php:65 inc/widgets/cafe-flip-box.php:421
+#: inc/widgets/cafe-flip-box.php:668
+#: inc/widgets/cafe-heading-typewriter.php:181
+#: inc/widgets/cafe-posts-box.php:291
+msgid "H6"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:73
+#: inc/widgets/cafe-business-hours.php:66 inc/widgets/cafe-flip-box.php:422
+#: inc/widgets/cafe-flip-box.php:669
+#: inc/widgets/cafe-heading-typewriter.php:182
+#: inc/widgets/cafe-posts-box.php:292
+msgid "div"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:74
+#: inc/widgets/cafe-business-hours.php:67 inc/widgets/cafe-flip-box.php:423
+#: inc/widgets/cafe-flip-box.php:670 inc/widgets/cafe-posts-box.php:293
+msgid "span"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:75
+#: inc/widgets/cafe-heading-typewriter.php:183
+#: inc/widgets/cafe-posts-box.php:294
+msgid "p"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:83
+#: inc/widgets/cafe-news-ticker.php:187
+msgid "Show icon"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:92
+#: inc/widgets/cafe-alert-message.php:47 inc/widgets/cafe-double-button.php:68
+#: inc/widgets/cafe-double-button.php:212
+#: inc/widgets/cafe-double-button.php:343
+#: inc/widgets/cafe-double-button.php:352 inc/widgets/cafe-flip-box.php:148
+#: inc/widgets/cafe-flip-box.php:203 inc/widgets/cafe-news-ticker.php:196
+#: inc/widgets/cafe-quote.php:75
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:107
+msgid "Subtitle"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:119
+#: inc/widgets/cafe-business-hours.php:136
+msgid "Box style"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:127
+msgid "Box background"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:139
+#: inc/widgets/cafe-business-hours.php:145 inc/widgets/cafe-quote.php:171
+#: inc/widgets/cafe-quote.php:514
+msgid "Box padding"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:175
+#: inc/widgets/cafe-advanced-heading.php:455
+#: inc/widgets/cafe-alert-message.php:173
+#: inc/widgets/cafe-business-hours.php:181 inc/widgets/cafe-flip-box.php:288
+#: inc/widgets/cafe-image-scroll.php:164 inc/widgets/cafe-news-ticker.php:373
+#: inc/widgets/cafe-news-ticker.php:452 inc/widgets/cafe-posts-box.php:453
+#: inc/widgets/cafe-quote.php:207 inc/widgets/cafe-quote.php:550
+msgid "Border Radius"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:197
+msgid "Title style"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:205
+#: inc/widgets/cafe-advanced-heading.php:314
+#: inc/widgets/cafe-advanced-heading.php:477
+#: inc/widgets/cafe-business-hours.php:228
+#: inc/widgets/cafe-business-hours.php:298
+#: inc/widgets/cafe-double-button.php:451 inc/widgets/cafe-flip-box.php:507
+#: inc/widgets/cafe-flip-box.php:754
+#: inc/widgets/cafe-heading-typewriter.php:191
+#: inc/widgets/cafe-posts-box.php:501 inc/widgets/cafe-quote.php:241
+#: inc/widgets/cafe-quote.php:339 inc/widgets/cafe-quote.php:417
+#: inc/widgets/cafe-quote.php:586
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:209
+#: inc/widgets/cafe-advanced-heading.php:318
+#: inc/widgets/cafe-advanced-heading.php:481
+#: inc/widgets/cafe-business-hours.php:232
+#: inc/widgets/cafe-business-hours.php:302
+#: inc/widgets/cafe-double-button.php:455 inc/widgets/cafe-flip-box.php:511
+#: inc/widgets/cafe-flip-box.php:758
+#: inc/widgets/cafe-heading-typewriter.php:195
+#: inc/widgets/cafe-news-ticker.php:178 inc/widgets/cafe-posts-box.php:505
+#: inc/widgets/cafe-quote.php:245 inc/widgets/cafe-quote.php:343
+#: inc/widgets/cafe-quote.php:421 inc/widgets/cafe-quote.php:590
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:213
+#: inc/widgets/cafe-advanced-heading.php:322
+#: inc/widgets/cafe-advanced-heading.php:485
+#: inc/widgets/cafe-business-hours.php:236
+#: inc/widgets/cafe-business-hours.php:306
+#: inc/widgets/cafe-double-button.php:459 inc/widgets/cafe-flip-box.php:104
+#: inc/widgets/cafe-flip-box.php:515 inc/widgets/cafe-flip-box.php:762
+#: inc/widgets/cafe-heading-typewriter.php:199
+#: inc/widgets/cafe-posts-box.php:509 inc/widgets/cafe-quote.php:249
+#: inc/widgets/cafe-quote.php:347 inc/widgets/cafe-quote.php:425
+#: inc/widgets/cafe-quote.php:594
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:217
+#: inc/widgets/cafe-advanced-heading.php:326
+#: inc/widgets/cafe-advanced-heading.php:489
+#: inc/widgets/cafe-business-hours.php:240
+#: inc/widgets/cafe-business-hours.php:310
+#: inc/widgets/cafe-double-button.php:463 inc/widgets/cafe-flip-box.php:519
+#: inc/widgets/cafe-flip-box.php:766
+#: inc/widgets/cafe-heading-typewriter.php:203
+#: inc/widgets/cafe-news-ticker.php:179 inc/widgets/cafe-posts-box.php:513
+#: inc/widgets/cafe-quote.php:253 inc/widgets/cafe-quote.php:351
+#: inc/widgets/cafe-quote.php:429 inc/widgets/cafe-quote.php:598
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:221
+#: inc/widgets/cafe-advanced-heading.php:493
+#: inc/widgets/cafe-business-hours.php:244
+#: inc/widgets/cafe-business-hours.php:314 inc/widgets/cafe-flip-box.php:523
+#: inc/widgets/cafe-flip-box.php:770
+#: inc/widgets/cafe-heading-typewriter.php:207
+#: inc/widgets/cafe-posts-box.php:517 inc/widgets/cafe-quote.php:257
+#: inc/widgets/cafe-quote.php:355 inc/widgets/cafe-quote.php:433
+#: inc/widgets/cafe-quote.php:602
+msgid "Justify"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:236
+msgid "First part title typography"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:246
+msgid "First part title color"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:258
+msgid "Second part title typography"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:268
+msgid "Second part title color"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:280
+#: inc/widgets/cafe-advanced-heading.php:434
+#: inc/widgets/cafe-advanced-heading.php:508
+msgid "Gap"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:303 inc/widgets/cafe-quote.php:394
+msgid "Icon style"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:341
+#: inc/widgets/cafe-alert-message.php:322
+#: inc/widgets/cafe-double-button.php:367 inc/widgets/cafe-flip-box.php:327
+#: inc/widgets/cafe-flip-box.php:574
+msgid "Icon size"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:360
+msgid "Icon padding"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:396
+msgid "Icon position"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:400 inc/widgets/cafe-flip-box.php:103
+#: inc/widgets/cafe-quote.php:374 inc/widgets/cafe-quote.php:468
+msgid "Top"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:401
+msgid "Middle"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:402 inc/widgets/cafe-flip-box.php:105
+#: inc/widgets/cafe-quote.php:375 inc/widgets/cafe-quote.php:469
+msgid "Bottom"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:410
+msgid "Icon color"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:422
+msgid "Icon background"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:469
+msgid "Subtitle style"
+msgstr ""
+
+#: inc/widgets/cafe-advanced-heading.php:529
+msgid "Subtitle color"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:59 inc/widgets/cafe-business-hours.php:47
+#: inc/widgets/cafe-business-hours.php:207 inc/widgets/cafe-flip-box.php:163
+#: inc/widgets/cafe-flip-box.php:166 inc/widgets/cafe-flip-box.php:218
+#: inc/widgets/cafe-flip-box.php:221 inc/widgets/cafe-heading-typewriter.php:66
+#: inc/widgets/cafe-news-ticker.php:87
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:61
+msgid "This is Alert Message"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:69 inc/widgets/cafe-flip-box.php:176
+#: inc/widgets/cafe-flip-box.php:231
+msgid "Content"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:71
+msgid ""
+"Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel."
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:79
+msgid "Dismiss Button"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:81 inc/widgets/cafe-double-button.php:339
+#: inc/widgets/cafe-posts-box.php:136 inc/widgets/cafe-posts-box.php:152
+#: inc/widgets/cafe-posts-box.php:168
+msgid "Show"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:82 inc/widgets/cafe-posts-box.php:137
+#: inc/widgets/cafe-posts-box.php:153 inc/widgets/cafe-posts-box.php:169
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:91
+#: inc/widgets/cafe-heading-typewriter.php:222
+#: inc/widgets/cafe-posts-box.php:242
+msgid "View"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:104
+msgid "Alert style"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:112
+msgid "Background Color"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:124
+#: inc/widgets/cafe-heading-typewriter.php:262
+#: inc/widgets/cafe-heading-typewriter.php:284
+#: inc/widgets/cafe-heading-typewriter.php:306
+msgid "Text Color"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:136
+#: inc/widgets/cafe-double-button.php:478
+#: inc/widgets/cafe-double-button.php:583 inc/widgets/cafe-flip-box.php:251
+#: inc/widgets/cafe-news-ticker.php:337 inc/widgets/cafe-news-ticker.php:416
+msgid "Padding"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:210
+msgid "Border Style"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:214
+msgid "None"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:215
+#: inc/widgets/cafe-business-hours.php:418
+msgid "Solid"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:216
+#: inc/widgets/cafe-business-hours.php:421
+msgid "Double"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:217
+#: inc/widgets/cafe-business-hours.php:420
+msgid "Dotted"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:218
+#: inc/widgets/cafe-business-hours.php:419
+msgid "Dashed"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:229
+msgid "Border Width"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:253
+msgid "Border Color"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:272 inc/widgets/cafe-flip-box.php:372
+#: inc/widgets/cafe-flip-box.php:619 inc/widgets/cafe-news-ticker.php:553
+msgid "Title Typography"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:293 inc/widgets/cafe-flip-box.php:441
+#: inc/widgets/cafe-flip-box.php:688
+msgid "Content Typography"
+msgstr ""
+
+#: inc/widgets/cafe-alert-message.php:314
+msgid "Icon Style"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:56 inc/widgets/cafe-flip-box.php:412
+#: inc/widgets/cafe-flip-box.php:659
+msgid "Title Tag"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:77
+msgid "Day"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:86
+msgid "Hours"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:99
+msgid "Monday"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:100
+#: inc/widgets/cafe-business-hours.php:104
+#: inc/widgets/cafe-business-hours.php:108
+#: inc/widgets/cafe-business-hours.php:112
+#: inc/widgets/cafe-business-hours.php:116
+msgid "10AM - 5PM"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:103
+msgid "Tuesday"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:107
+msgid "Wednesday"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:111
+msgid "Thursday"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:115
+msgid "Friday"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:119
+msgid "Saturday"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:120
+msgid "10AM - 2PM"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:123
+msgid "Sunday"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:124
+msgid "Close"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:193
+msgid "Background color"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:216
+msgid "Title color"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:259
+#: inc/widgets/cafe-business-hours.php:329
+msgid "Distance"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:348
+msgid "Color of days"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:361
+msgid "Typography of days"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:371
+msgid "Color of hours"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:384
+msgid "Typography of hours"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:394
+msgid "Border size"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:414
+msgid "Border style"
+msgstr ""
+
+#: inc/widgets/cafe-business-hours.php:432
+msgid "Border color"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:37
+msgid "First Button"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:44 inc/widgets/cafe-double-button.php:188
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:47
+msgid "First"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:57 inc/widgets/cafe-double-button.php:201
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:76 inc/widgets/cafe-double-button.php:220
+msgid "Icon Position"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:80 inc/widgets/cafe-double-button.php:224
+msgid "Before"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:81 inc/widgets/cafe-double-button.php:225
+msgid "After"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:89 inc/widgets/cafe-double-button.php:233
+msgid "Icon Spacing"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:111
+#: inc/widgets/cafe-double-button.php:255
+msgid "Normal"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:118
+#: inc/widgets/cafe-double-button.php:151
+#: inc/widgets/cafe-double-button.php:262
+#: inc/widgets/cafe-double-button.php:295
+#: inc/widgets/cafe-double-button.php:416 inc/widgets/cafe-news-ticker.php:297
+#: inc/widgets/cafe-posts-box.php:262 inc/widgets/cafe-posts-box.php:313
+#: inc/widgets/cafe-posts-box.php:344 inc/widgets/cafe-posts-box.php:375
+#: inc/widgets/cafe-quote.php:229 inc/widgets/cafe-quote.php:327
+#: inc/widgets/cafe-quote.php:405 inc/widgets/cafe-quote.php:490
+msgid "Color"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:130
+#: inc/widgets/cafe-double-button.php:163
+#: inc/widgets/cafe-double-button.php:274
+#: inc/widgets/cafe-double-button.php:307
+#: inc/widgets/cafe-double-button.php:428 inc/widgets/cafe-flip-box.php:539
+#: inc/widgets/cafe-flip-box.php:786 inc/widgets/cafe-news-ticker.php:309
+#: inc/widgets/cafe-news-ticker.php:404 inc/widgets/cafe-quote.php:159
+#: inc/widgets/cafe-quote.php:502
+msgid "Background"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:144
+#: inc/widgets/cafe-double-button.php:288
+msgid "Hover"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:181
+msgid "Second Button"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:191
+msgid "Second"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:323
+msgid "Divider"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:330
+msgid "Show divider"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:344
+#: inc/widgets/cafe-double-button.php:389
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:442
+msgid "Box Style"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:515
+msgid "Buttons Border Radius"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:571
+msgid "Divider Style"
+msgstr ""
+
+#: inc/widgets/cafe-double-button.php:619
+msgid "Divider Border Radius"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:49
+msgid "Width"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:76
+msgid "Height"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:99
+msgid "Content Position"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:117
+msgid "Flip"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:121 inc/widgets/cafe-image-scroll.php:83
+#: inc/widgets/cafe-news-ticker.php:275
+msgid "Horizontal"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:122 inc/widgets/cafe-image-scroll.php:82
+#: inc/widgets/cafe-news-ticker.php:276
+msgid "Vertical"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:132 inc/widgets/cafe-flip-box.php:303
+msgid "Front side"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:139 inc/widgets/cafe-flip-box.php:194
+#: inc/widgets/cafe-quote.php:66
+msgid "Use icon"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:178 inc/widgets/cafe-flip-box.php:233
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non leo "
+"pretium, tempus tellus et, pellentesque ligula. Suspendisse potenti."
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:187 inc/widgets/cafe-flip-box.php:550
+msgid "Back side"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:312 inc/widgets/cafe-flip-box.php:559
+msgid "Icon Color"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:347 inc/widgets/cafe-flip-box.php:594
+msgid "Title margin"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:391 inc/widgets/cafe-flip-box.php:638
+#: inc/widgets/cafe-news-ticker.php:537
+msgid "Title Color"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:460 inc/widgets/cafe-flip-box.php:707
+msgid "Content margin"
+msgstr ""
+
+#: inc/widgets/cafe-flip-box.php:485 inc/widgets/cafe-flip-box.php:732
+msgid "Content Color"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:43
+msgid "Titles Typewriter"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:51
+msgid "Text Before"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:54
+msgid "Text before"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:69
+#: inc/widgets/cafe-heading-typewriter.php:70
+msgid "Heading Text"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:85
+msgid "Heading Text #1"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:88
+msgid "Heading Text #2"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:98
+msgid "Text After"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:101
+msgid "Text after"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:112
+msgid "Type Speed"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:124
+msgid "Start Delay"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:136
+msgid "Back Speed"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:148
+msgid "Back Delay"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:160
+msgid "Loop writing effect"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:163
+#: inc/widgets/cafe-image-scroll.php:147 inc/widgets/cafe-posts-box.php:59
+#: inc/widgets/cafe-posts-box.php:111 inc/widgets/cafe-posts-box.php:123
+#: inc/widgets/cafe-posts-box.php:183 inc/widgets/cafe-posts-box.php:195
+msgid "Off"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:164
+#: inc/widgets/cafe-image-scroll.php:148 inc/widgets/cafe-posts-box.php:58
+#: inc/widgets/cafe-posts-box.php:110 inc/widgets/cafe-posts-box.php:122
+#: inc/widgets/cafe-posts-box.php:182 inc/widgets/cafe-posts-box.php:194
+msgid "On"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:234
+msgid "Typohrapy text"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:254
+msgid "Typewriter text"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:276
+msgid "Before text"
+msgstr ""
+
+#: inc/widgets/cafe-heading-typewriter.php:298
+msgid "After text"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:42
+msgid "Image scroll"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:49
+msgid "Choose Image"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:71
+msgid "Scroll settings"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:78
+msgid "Scroll direction"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:91
+msgid "Image height"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:117
+msgid "Image width"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:143
+msgid "Reverse"
+msgstr ""
+
+#: inc/widgets/cafe-image-scroll.php:155
+msgid "Scroll speed"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:47
+msgid "Post Type"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:57
+msgid "Number of elements"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:67
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:71 inc/widgets/cafe-news-ticker.php:85
+msgid "Default"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:72
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:73
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:81
+msgid "Order By"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:86 inc/widgets/cafe-posts-box.php:88
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:88
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:89
+msgid "Modified"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:90
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:91 inc/widgets/cafe-posts-box.php:89
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:92
+msgid "ID"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:93
+msgid "Comment Count"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:94
+msgid "Menu Order"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:102
+msgid "Show date"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:111
+msgid "Show author"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:120
+msgid "Show title"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:129
+msgid "Include Categories"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:130 inc/widgets/cafe-news-ticker.php:143
+msgid "Enter the categories slugs seperated by a \"comma\""
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:142
+msgid "Exclude Categories"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:157
+msgid "General Settings"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:164
+msgid "Custom Text"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:167
+msgid "Latest News"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:174
+msgid "Text position"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:211
+msgid "Show arrows"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:221
+msgid "Autoplay"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:231
+msgid "Pause on hover"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:243
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:258
+msgid "Animation"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:262
+msgid "Slide"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:263
+msgid "Fade"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:271
+msgid "Slide direction"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:289
+msgid "Custom text style"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:321
+msgid "Icon distance"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:396
+msgid "News style"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:464
+msgid "Arrows color"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:479
+msgid "Date Color"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:495
+msgid "Date Typography"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:508
+msgid "Author Color"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:524
+msgid "Author Typography"
+msgstr ""
+
+#: inc/widgets/cafe-news-ticker.php:566
+msgid "Divider Color"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:39
+msgid "Query"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:47
+msgid "Number of posts"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:56
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:68
+msgid "Columns"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:72
+msgid "1"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:73
+msgid "2"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:74
+msgid "3"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:75
+msgid "4"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:76
+msgid "5"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:84
+msgid "Order by"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:90
+msgid "Number of comments"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:98
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:108
+msgid "Show featured images (if exists)"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:120
+msgid "Show Meta"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:132
+msgid "Author Meta"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:148
+msgid "Date Meta"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:164
+msgid "Comments Meta"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:180
+msgid "Show Categories"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:192
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:204
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:225
+msgid "Image Size"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:229
+msgid "Medium Large (768 x infinite height)"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:230
+msgid "Large (1024 x 1024px)"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:231
+msgid "Medium Small (500 x 270px)"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:232
+msgid "Thumbnail (150 x 150px)"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:233
+msgid "Original image size"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:255
+msgid "Post title"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:306
+msgid "Post content"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:337
+msgid "Categories content"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:368
+msgid "Meta content"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:399
+msgid "Post spacing"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:406
+msgid "Spacing"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:446
+msgid "Images Border Radius"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:493
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:600
+msgid "0 Comments"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:600
+msgid "1 Comment"
+msgstr ""
+
+#: inc/widgets/cafe-posts-box.php:600
+msgid "% Comments"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:47
+msgid "Message"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:49
+msgid ""
+"Sed scelerisque fermentum erat, vitae malesuada enim ultrices non. Donec "
+"enim quam, fermentum vitae euismod id, lacinia nec tortor. In felis leo, "
+"vulputate ac orci nec, iaculis fermentum eros."
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:57
+msgid "Message author"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:59
+msgid "John Doe"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:90
+msgid "Twitter share button"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:99
+msgid "Share text"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:101
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:111
+msgid "Twitter Icon"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:126
+msgid "Your Twitter username"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:137
+msgid "Link this page in share button"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:151
+msgid "Quote box style"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:221
+msgid "Message style"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:272
+msgid "Margin"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:319
+msgid "Author style"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:370 inc/widgets/cafe-quote.php:464
+msgid "Position"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:448
+msgid "Size"
+msgstr ""
+
+#: inc/widgets/cafe-quote.php:479
+msgid "Twitter style"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: panel/plugin-options-page.php:58 panel/plugin-options-page.php:105
+msgid "Cresta Addons for Elementor"
+msgstr ""
+
+#: panel/plugin-options-page.php:75 panel/plugin-options-page.php:144
+#: panel/plugin-options-page.php:159
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: panel/plugin-options-page.php:87
+msgid "Settings"
+msgstr ""
+
+#: panel/plugin-options-page.php:99
+msgid "Free Version"
+msgstr ""
+
+#: panel/plugin-options-page.php:101
+msgid "PRO Version"
+msgstr ""
+
+#: panel/plugin-options-page.php:115
+msgid "Cresta Addons settings"
+msgstr ""
+
+#: panel/plugin-options-page.php:119 panel/plugin-options-page.php:132
+msgid "Save Settings"
+msgstr ""
+
+#: panel/plugin-options-page.php:136
+msgid "Rate us on WordPress!"
+msgstr ""
+
+#: panel/plugin-options-page.php:157
+msgid "Upgrade to PRO version"
+msgstr ""
+
+#: panel/plugin-options-page.php:158
+msgid "Get Cresta Addons PRO to unlock all Elementor Widgets."
+msgstr ""
+
+#: panel/plugin-options-page.php:176
+msgid "Welcome to Cresta Addons options page"
+msgstr ""
+
+#: panel/plugin-options-page.php:257
+msgid ""
+"Activate only the Elementor widgets you want to use, they will be visible in "
+"the Elementor widget list."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://crestaproject.com/downloads/cresta-addons/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Dozens of additional widgets for Elementor!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CrestaProject - Rizzo Andrea"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://crestaproject.com"
+msgstr ""

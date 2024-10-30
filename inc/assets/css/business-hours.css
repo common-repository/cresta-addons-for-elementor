@@ -1,0 +1,16 @@
+.cafe-business-hour-container .cafe-business-hour-single {
+	display: flex;
+    flex-direction: row;
+}
+.cafe-business-hour-container .cafe-business-hour-single:last-child {
+	border-bottom: none !important;
+	margin-bottom: 0 !important;
+	padding-bottom: 0 !important;
+}
+.cafe-business-hour-container .cafe-business-hour-single .cafe-business-hour-day,
+.cafe-business-hour-container .cafe-business-hour-single .cafe-business-hour-hours {
+	flex: 1 1 0;
+}
+.cafe-business-hour-container .cafe-business-hour-title {
+	margin: 0;
+}
